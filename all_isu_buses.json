@@ -1,6 +1,6 @@
 [
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "12:20",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "12:50",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "13:20",
@@ -126,7 +126,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "14:50",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "15:40",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:30",
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:00",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:30",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:40",
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "18:00",
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "18:20",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "20:10",
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "21:00",
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "22:00",
@@ -588,7 +588,7 @@
     ]
   },
   {
-    "route_name": "8501 高鐵左營線",
+    "route_name": "8501 高鐵左營站",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "22:30",
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "route_name": "8502 高雄美術館線",
+    "route_name": "8502 高雄市立美術館",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:00",
@@ -784,7 +784,7 @@
     ]
   },
   {
-    "route_name": "8502 高雄美術館線",
+    "route_name": "8502 高雄市立美術館",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:40",
@@ -938,7 +938,7 @@
     ]
   },
   {
-    "route_name": "8502 高雄美術館線",
+    "route_name": "8502 高雄市立美術館",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "19:10",
@@ -1092,7 +1092,7 @@
     ]
   },
   {
-    "route_name": "8502 高雄美術館線",
+    "route_name": "8502 高雄市立美術館",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "22:20",
@@ -1246,7 +1246,7 @@
     ]
   },
   {
-    "route_name": "綠2 高雄市政府線",
+    "route_name": "綠2 市政大樓(四維三路)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "15:30",
@@ -1328,7 +1328,7 @@
     ]
   },
   {
-    "route_name": "綠2 高雄市政府線",
+    "route_name": "綠2 市政大樓(四維三路)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:35",
@@ -1410,7 +1410,7 @@
     ]
   },
   {
-    "route_name": "綠2 高雄市政府線",
+    "route_name": "綠2 市政大樓(四維三路)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "18:00",
@@ -1634,7 +1634,7 @@
     ]
   },
   {
-    "route_name": "橘18 鳳山線",
+    "route_name": "橘18 鳳陽社區",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "15:30",
@@ -1740,7 +1740,7 @@
     ]
   },
   {
-    "route_name": "橘18 鳳山線",
+    "route_name": "橘18 鳳陽社區",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:30",
@@ -1846,7 +1846,7 @@
     ]
   },
   {
-    "route_name": "橘18 鳳山線",
+    "route_name": "橘18 鳳陽社區",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:45",
@@ -1952,157 +1952,7 @@
     ]
   },
   {
-    "route_name": "橘18A(7/5前) 鳳山轉運站",
-    "day_type": "平日",
-    "direction": "去程",
-    "start_time": "12:30",
-    "isu_time": "12:32",
-    "end_time": "13:28",
-    "stops": [
-      {
-        "station": "義大世界",
-        "time": "12:30"
-      },
-      {
-        "station": "義守大學",
-        "time": "12:32"
-      },
-      {
-        "station": "購物廣場",
-        "time": "12:35"
-      },
-      {
-        "station": "金鴻山金寶塔",
-        "time": "12:38"
-      },
-      {
-        "station": "古嚴寺",
-        "time": "12:38"
-      },
-      {
-        "station": "仁林路口",
-        "time": "12:45"
-      },
-      {
-        "station": "仁武里",
-        "time": "12:48"
-      },
-      {
-        "station": "仁武區公所",
-        "time": "12:49"
-      },
-      {
-        "station": "通法寺",
-        "time": "12:52"
-      },
-      {
-        "station": "八卦寮",
-        "time": "12:52"
-      },
-      {
-        "station": "新庄",
-        "time": "12:54"
-      },
-      {
-        "station": "名湖社區",
-        "time": "12:54"
-      },
-      {
-        "station": "灣子內",
-        "time": "12:56"
-      },
-      {
-        "station": "登發國小",
-        "time": "12:59"
-      },
-      {
-        "station": "仁忠路口",
-        "time": "13:00"
-      },
-      {
-        "station": "仁慈公園",
-        "time": "13:02"
-      },
-      {
-        "station": "慈育街口",
-        "time": "13:02"
-      },
-      {
-        "station": "大仁北路",
-        "time": "13:04"
-      },
-      {
-        "station": "大智路口",
-        "time": "13:04"
-      },
-      {
-        "station": "大智路",
-        "time": "13:06"
-      },
-      {
-        "station": "澄清湖棒球場",
-        "time": "13:08"
-      },
-      {
-        "station": "勞工育樂中心",
-        "time": "13:08"
-      },
-      {
-        "station": "長庚醫院",
-        "time": "13:10"
-      },
-      {
-        "station": "正修科大",
-        "time": "13:11"
-      },
-      {
-        "station": "濱山街口",
-        "time": "13:14"
-      },
-      {
-        "station": "文衡路口",
-        "time": "13:16"
-      },
-      {
-        "station": "建國路口",
-        "time": "13:17"
-      },
-      {
-        "station": "文福里",
-        "time": "13:19"
-      },
-      {
-        "station": "文華國小",
-        "time": "13:20"
-      },
-      {
-        "station": "大全聯",
-        "time": "13:20"
-      },
-      {
-        "station": "台鐵鳳山",
-        "time": "13:22"
-      },
-      {
-        "station": "曹公路",
-        "time": "13:24"
-      },
-      {
-        "station": "光遠路",
-        "time": "13:25"
-      },
-      {
-        "station": "市場前",
-        "time": "13:25"
-      },
-      {
-        "station": "鳳山轉運站",
-        "time": "13:28"
-      }
-    ]
-  },
-  {
-    "route_name": "橘18A(7/6後) 鳳陽社區",
+    "route_name": "橘18A 鳳陽社區",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "12:30",
@@ -2268,7 +2118,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "12:30",
@@ -2350,7 +2200,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "14:30",
@@ -2432,7 +2282,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "15:30",
@@ -2514,7 +2364,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:50",
@@ -2596,7 +2446,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:50",
@@ -2678,7 +2528,7 @@
     ]
   },
   {
-    "route_name": "8505 五甲線",
+    "route_name": "8505 前鎮高中",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "22:20",
@@ -2760,7 +2610,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "12:50",
@@ -2858,7 +2708,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "15:30",
@@ -2956,7 +2806,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "16:30",
@@ -3054,7 +2904,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:00",
@@ -3152,7 +3002,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "17:40",
@@ -3250,7 +3100,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "18:10",
@@ -3348,7 +3198,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "19:30",
@@ -3446,7 +3296,7 @@
     ]
   },
   {
-    "route_name": "8506 岡山線",
+    "route_name": "8506 台鐵岡山車站(捷運岡山車站)",
     "day_type": "平日",
     "direction": "去程",
     "start_time": "22:30",
